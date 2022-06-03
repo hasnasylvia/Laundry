@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\laundry\resources\views/member_crud/tambah.blade.php ENDPATH**/ ?>
